@@ -16,4 +16,4 @@
 
 ### Solution:
 
-My Postman [COLLECTION]()
+My Postman [COLLECTION](https://github.com/YuliyaKazakova66/Api-Testing-via-Postman/blob/main/Postman%20Collection/Homework%202-%20API%20Testing.postman_collection.json)
